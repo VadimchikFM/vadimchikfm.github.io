@@ -1,2 +1,3 @@
 # mw-site-old
-Galilgg how?
+Ну эта та хуйня под названием сайт.
+Galilgg Как так то?
